@@ -37,7 +37,7 @@ I'm also passionate about **AI, automation, and cloud technologies**, and I'm co
 
 ```yaml
 name: Momin Samir Ahemad
-role: Full Stack & AI/ML Developer
+role:AI/ML Developer
 location: India
 languages: [JavaScript, Python, Java, C, SQL]
 open_to:
