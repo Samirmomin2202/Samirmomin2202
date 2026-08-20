@@ -31,7 +31,7 @@
 
 <img align="right" width="35%" src="https://raw.githubusercontent.com/ryanshaw94/ryanshaw94/master/computer.gif"/>
 
-I'm a passionate **Full Stack Developer** who enjoys building scalable, user-centric web applications using **React.js, Node.js, Express.js, Django, Python, MongoDB, and MySQL**. I love turning ideas into real-world products by developing responsive frontends, robust backend systems, and secure REST APIs.
+I'm a passionate **ASPIRE DATA SCIENCE ** who enjoys building scalable, user-centric web applications using **React.js, Node.js, Express.js, Django, Python, MongoDB, and MySQL**. I love turning ideas into real-world products by developing responsive frontends, robust backend systems, and secure REST APIs.
 
 I'm also passionate about **AI, automation, and cloud technologies**, and I'm continuously learning new tools and frameworks while contributing to projects that solve real-world problems through clean, efficient, and maintainable code.
 
