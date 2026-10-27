@@ -1,334 +1,238 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Momin%20Samir%20Ahemad&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%26%20AI/ML%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:4C1D95,100:7C3AED&height=230&section=header&text=Momin%20Samir%20Ahemad&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%7C%20Generative%20AI%20%7C%20Full%20Stack%20Developer&descAlignY=57&descSize=17" width="100%" alt="Profile banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%2F+ML+Enthusiast;React.js+%7C+Node.js+%7C+Django;Building+Scalable+Web+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1100&color=A78BFA&center=true&vCenter=true&width=850&lines=Building+LLM-powered+applications;RAG+Pipelines+%7C+AI+Agents+%7C+Tool+Calling;Python+%7C+FastAPI+%7C+LangChain;React+%7C+Node.js+%7C+MongoDB;From+Prototype+to+Reliable+AI+Products" alt="Typing introduction"/>
 
-<br/>
 
-![Location](https://img.shields.io/badge/📍_Location-India-6D28D9?style=for-the-badge&labelColor=1e1b2e)
-![Focus](https://img.shields.io/badge/🎯_Focus-Full%20Stack%20%26%20AI/ML-7C3AED?style=for-the-badge&labelColor=1e1b2e)
 
-<br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://samirmomin2202.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mominsamir)
-[![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mominsamir2202@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Samirmomin2202)
-[![Twitter](https://img.shields.io/badge/Twitter-5B21B6?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/MominSamir17125)
 
-<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Samirmomin2202&color=6D28D9&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Samirmomin2202?color=7C3AED&style=for-the-badge&label=FOLLOWERS&labelColor=1e1b2e)
-![Stars](https://img.shields.io/github/stars/Samirmomin2202?color=8B5CF6&style=for-the-badge&label=STARS&labelColor=1e1b2e)
+
+
+
 
 </div>
 
-<br/>
+👨‍💻 About Me
+I'm Momin Samir Ahemad, a developer focused on building practical software at the intersection of AI engineering and full-stack development. I work with Python and modern web technologies to develop applications, APIs, data-driven systems, and AI-powered workflows.
 
-## 🪞 About Me
-
-<img align="right" width="35%" src="https://raw.githubusercontent.com/ryanshaw94/ryanshaw94/master/computer.gif"/>
-
-I'm a passionate **ASPIRE DATA SCIENCE ** who enjoys building scalable, user-centric web applications using **React.js, Node.js, Express.js, Django, Python, MongoDB, and MySQL**. I love turning ideas into real-world products by developing responsive frontends, robust backend systems, and secure REST APIs.
-
-I'm also passionate about **AI, automation, and cloud technologies**, and I'm continuously learning new tools and frameworks while contributing to projects that solve real-world problems through clean, efficient, and maintainable code.
-
-```yaml
+My current learning and project interests include retrieval-augmented generation (RAG), LLM application development, AI agents, tool calling, workflow automation, and connecting AI systems to real application data with appropriate access controls.
+- 🧠 AI engineering: LLM applications, RAG concepts, embeddings, vector search, and agent workflows.
+- 🛠️ Backend engineering: Python, FastAPI, Node.js, Express, Django, and REST APIs.
+- 🌐 Full-stack development: React, JavaScript, Tailwind CSS, and responsive UI development.
+- 🗄️ Data: MongoDB, MongoDB Atlas, MySQL, SQLite, and data-processing fundamentals.
+- 🚀 Engineering priorities: maintainable architecture, secure authorization, useful evaluations, and dependable deployment.
+- 🤝 Open to: junior AI Engineer, Generative AI Engineer, AI/ML Engineer, and Full Stack Developer opportunities.
 name: Momin Samir Ahemad
-role:AI/ML Developer
+role: AI Engineer | Generative AI Developer | Full Stack Developer
 location: India
-languages: [JavaScript, Python, Java, C, SQL]
-open_to:
-  - Full Stack Development Roles
-  - AI/ML Engineering Opportunities
-  - Open Source Collaboration
-  - Freelance / Contract Projects
-```
-
-<br/>
-
-## 🧠 Tech Stack
-
+primary_language: Python
+interests:
+  - LLM Applications
+  - Retrieval-Augmented Generation (RAG)
+  - AI Agents and Tool Calling
+  - Machine Learning and Data Science
+  - Full-Stack AI Products
+  - AI Workflow Automation
+🧠 AI Engineering Toolkit
 <div align="center">
 
-**Languages**
+LLMs, RAG & Agentic Systems
+<img src="https://img.shields.io/badge/LLM_Applications-412991?style=for-the-badge" alt="LLM applications"/>
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge" alt="RAG"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/LangGraph-20232A?style=for-the-badge" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge" alt="Groq API"/>
+<img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge" alt="Ollama"/>
+<img src="https://img.shields.io/badge/Embeddings_%26_Vector_Search-4B5563?style=for-the-badge" alt="Embeddings and vector search"/>
+<img src="https://img.shields.io/badge/Tool_Calling-6D28D9?style=for-the-badge" alt="Tool calling"/>
+<img src="https://img.shields.io/badge/MCP-334155?style=for-the-badge" alt="Model Context Protocol"/>
 
-![JavaScript](https://skillicons.dev/icons?i=js) ![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) ![C](https://skillicons.dev/icons?i=c) ![MySQL](https://skillicons.dev/icons?i=mysql) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css)
+Machine Learning & Data
+<img src="https://skillicons.dev/icons?i=python" alt="Python"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
 
-**Frontend**
-
-![React](https://skillicons.dev/icons?i=react) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Materialui](https://skillicons.dev/icons?i=materialui) ![Figma](https://skillicons.dev/icons?i=figma)
-
-**Backend & Databases**
-
-![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Django](https://skillicons.dev/icons?i=django) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![SQLite](https://skillicons.dev/icons?i=sqlite)
-
-**Cloud, DevOps & Tooling**
-
-![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Postman](https://skillicons.dev/icons?i=postman) ![Docker](https://skillicons.dev/icons?i=docker) ![Vercel](https://skillicons.dev/icons?i=vercel) ![Netlify](https://skillicons.dev/icons?i=netlify) ![npm](https://skillicons.dev/icons?i=npm)
+AI Backend & Data Infrastructure
+<img src="https://skillicons.dev/icons?i=fastapi,flask" alt="Python API frameworks"/>
+<img src="https://img.shields.io/badge/ChromaDB-Vector_Database-5B21B6?style=for-the-badge" alt="ChromaDB"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" alt="Databases"/>
+<img src="https://img.shields.io/badge/Pydantic-Data_Validation-E92063?style=for-the-badge" alt="Pydantic"/>
+<img src="https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge" alt="REST APIs"/>
 
 </div>
 
-<br/>
+Note: Tool badges describe the technologies relevant to my learning and projects. My hands-on proficiency varies by tool; see individual repositories for implementation details.
 
-## 🤖 AI / ML Expertise
-
+🧰 Full-Stack & Engineering Stack
 <div align="center">
 
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| **Generative AI** | ⭐⭐⭐⭐☆ | Applied GenAI for software development workflows; IBM-certified specialization |
-| **Data Analytics** | ⭐⭐⭐⭐☆ | Data-driven decision-making, analytical thinking, foundations of data science |
-| **AI Automation** | ⭐⭐⭐☆☆ | Exploring LangChain, n8n, and Ollama for intelligent workflow automation |
-| **MCP Servers** | ⭐⭐⭐☆☆ | Actively exploring Model Context Protocol integrations for AI-driven apps |
-| **Cloud & Deployment** | ⭐⭐⭐⭐☆ | Deploying AI/web apps via Vercel, Netlify, and Render |
+Languages
+<img src="https://skillicons.dev/icons?i=python,js,java,c,html,css" alt="Programming languages"/>
+
+
+Frontend
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,materialui,figma" alt="Frontend technologies"/>
+
+
+Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,mysql,sqlite" alt="Backend and databases"/>
+
+
+DevOps & Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel,netlify,npm" alt="Development tools"/>
 
 </div>
 
-<br/>
+🏗️ AI Engineering Concepts I'm Building With
+Area	Concepts and techniques
+RAG pipeline design	Document ingestion, text extraction, chunking, metadata, embeddings, retrieval, context assembly, and grounded responses
+Retrieval quality	Chunk-size experiments, metadata filters, top-k retrieval, relevance checks, and source-aware answers
+AI agents	Tool schemas, controlled tool execution, multi-step workflows, state, error handling, and human approval for sensitive actions
+LLM application design	Prompt templates, structured outputs, context-window awareness, model configuration, and fallback behavior
+Data & security	Server-side validation, authentication, role-based authorization, least-privilege tool access, and audit-friendly actions
+Evaluation & reliability	Test questions, retrieval checks, answer relevance, hallucination review, latency tracking, and regression tests
+Deployment foundations	Environment variables, API configuration, Docker fundamentals, logging, and deployment workflows
 
-## 🚀 Featured Projects
 
-<details>
-<summary><b>✈️ Flight Management System (Django)</b></summary>
-<br/>
+🚀 Featured Projects
+🤖 RAG Chatbot & AI Agent — In Development
+A project direction focused on connecting a conversational AI interface to knowledge sources and application tools, with a Python API and database-backed application logic.
 
-A comprehensive Flight Management System built with Django that enables flight scheduling, passenger booking, ticket management, user authentication, and an admin dashboard. The application streamlines airline operations with secure backend logic, responsive interfaces, and efficient database management.
+Planned / explored stack: React + Vite · FastAPI · LangChain · Groq API or local Ollama models · MongoDB Atlas · ChromaDB.
 
-| Aspect | Details |
-|---|---|
-| **Stack** | Django, Python, HTML, CSS, Bootstrap, SQLite/MySQL |
-| **Scale** | Multi-role system (Admin, Staff, Passenger) |
-| **Performance** | Optimized ORM queries for booking & scheduling logic |
-| **Security** | Django's built-in auth, CSRF protection, session management |
-| **Impact** | Streamlines end-to-end airline booking operations |
-| **Repository** | [flight-management-systempp](https://github.com/Samirmomin2202/flight-management-systempp) |
+Engineering goals
+- Build a document ingestion and retrieval pipeline with citations or source references where available.
+- Separate retrieval from action-taking tools.
+- Validate tool inputs on the backend and enforce permissions server-side.
+- Keep secrets in environment variables rather than frontend code or source control.
+- Add test cases for retrieval quality, incorrect requests, tool failures, and role boundaries.
+Keep this project marked In Development until the features above are implemented and tested. Add a repository link when the project repository is ready.
 
-This project demonstrates strong backend architecture skills using Django's MVT pattern, combined with secure authentication and a clean administrative workflow for managing flights and passengers end-to-end.
+🏨 Hotel Booking System + AI Booking Assistant — Project Direction
+An AI assistant integrated with a hotel booking application, intended to answer hotel-related questions and help users navigate room search and booking workflows.
 
-</details>
+Architecture direction: React/Vite frontend · FastAPI/LangChain AI service · Groq or a local LLM · MongoDB Atlas · existing hotel backend and booking/payment flow.
 
-<details>
-<summary><b>✈️ Flight Management System (MERN)</b></summary>
-<br/>
+Important design principles
+- Use the existing booking and payment backend as the source of truth.
+- Check room availability and prices through validated backend tools rather than relying on generated text.
+- Enforce user/admin permissions on the server.
+- Require explicit confirmation before finalizing consequential booking or payment actions.
+- Return clear booking status and handle unavailable rooms or failed requests safely.
+Mark implementation status accurately and link the actual repository once it is public.
 
-A full-stack Flight Management System developed using the MERN stack. It provides flight search, booking, authentication, role-based access, and booking management through a responsive interface powered by RESTful APIs and a scalable backend.
-
-| Aspect | Details |
-|---|---|
-| **Stack** | React.js, Node.js, Express.js, MongoDB, JWT |
-| **Scale** | Full-stack app with role-based access control |
-| **Performance** | RESTful API architecture for fast data operations |
-| **Security** | JWT-based authentication & authorization |
-| **Impact** | End-to-end flight search and booking experience |
-| **Repository** | [flight-managment](https://github.com/Samirmomin2202/flight-managment) |
-
-Built to showcase full-stack proficiency across the MERN ecosystem, this project emphasizes a scalable backend, secure token-based auth, and a responsive booking interface.
-
-</details>
-
-<details>
-<summary><b>💼 MERN Project</b></summary>
-<br/>
-
-A modern full-stack web application built with the MERN stack, featuring responsive UI, secure authentication, REST APIs, CRUD operations, and MongoDB integration. Designed with scalable architecture and best practices for performance and maintainability.
-
-| Aspect | Details |
-|---|---|
-| **Stack** | React.js, Node.js, Express.js, MongoDB, JWT, Bootstrap/Tailwind CSS |
-| **Scale** | Full CRUD application with modular architecture |
-| **Performance** | Efficient MongoDB queries and REST API design |
-| **Security** | JWT authentication and protected routes |
-| **Impact** | Reusable full-stack foundation for future products |
-| **Repository** | [mern](https://github.com/Samirmomin2202/mern) |
-
-A well-structured MERN application built with maintainability and scalability in mind, reflecting best practices in modern full-stack development.
-
-</details>
-
-<details>
-<summary><b>💻 CodeThon</b></summary>
-<br/>
-
-A coding platform that allows users to practice programming problems, participate in coding challenges, and improve problem-solving skills. It includes user authentication, challenge management, progress tracking, and an intuitive interface for developers.
-
-| Aspect | Details |
-|---|---|
-| **Stack** | React.js, Node.js, Express.js, MongoDB |
-| **Scale** | Multi-user platform with challenge & progress tracking |
-| **Performance** | Optimized data flow for real-time challenge updates |
-| **Security** | Secure user authentication and session handling |
-| **Impact** | Helps developers sharpen problem-solving skills |
-| **Repository** | [codethom](https://github.com/Samirmomin2202/codethom) |
-
-Designed to encourage consistent practice, this platform combines an intuitive UI with backend logic for tracking user progress across coding challenges.
-
-</details>
-
-<details>
-<summary><b>📚 Django Project</b></summary>
-<br/>
-
-A web application developed with Django that demonstrates secure authentication, database management, CRUD functionality, and RESTful architecture. The project follows Django best practices to deliver a scalable, maintainable, and user-friendly solution.
-
-| Aspect | Details |
-|---|---|
-| **Stack** | Django, Python, HTML, CSS, Bootstrap, SQLite/MySQL |
-| **Scale** | Modular Django app following best practices |
-| **Performance** | Efficient ORM-based database operations |
-| **Security** | Django authentication & CSRF protection |
-| **Impact** | Reusable Django foundation for scalable web apps |
-| **Repository** | [djano](https://github.com/Samirmomin2202/djano) |
-
-A solid demonstration of Django fundamentals — authentication, CRUD, and REST principles — built with scalability and maintainability at its core.
-
-</details>
-
-<br/>
-
-## 💼 Experience
-
-**Full Stack & AI/ML Developer** — *Independent / Project-Based*
-`2024 — Present`
-
-Building production-oriented full-stack applications and exploring applied AI/ML integrations across personal and freelance projects.
-
-- Designed and developed responsive frontends using React.js, Tailwind CSS, and Bootstrap
-- Built secure REST APIs and backend systems with Node.js, Express.js, and Django
-- Implemented authentication, role-based access control, and database architecture (MongoDB, MySQL, SQLite)
-- Explored AI integration and automation using LangChain, n8n, and Ollama
-- Deployed and maintained applications on Vercel, Netlify, and Render
-
-`React.js` `Node.js` `Django` `MongoDB` `MySQL` `REST APIs` `AI Integration`
-
-<br/>
-
-## 🏆 Achievements
-
+✈️ Flight Management System — Django
+A Django application for flight scheduling, passenger booking, ticket management, authentication, and administration.
+- Stack: Python, Django, HTML, CSS, Bootstrap, SQLite/MySQL
+- Focus: multi-role workflows, booking logic, database operations, and authentication
+- Repository: flight-management-systempp
+✈️ Flight Management System — MERN
+A full-stack flight management application with flight search, booking, authentication, and booking-management workflows.
+- Stack: React, Node.js, Express.js, MongoDB, JWT
+- Focus: REST APIs, role-based access, and end-to-end booking workflows
+- Repository: flight-managment
+💻 CodeThon
+A coding-practice platform concept for programming challenges, user accounts, challenge management, and progress tracking.
+- Stack: React, Node.js, Express.js, MongoDB
+- Focus: full-stack workflows and data-driven user experiences
+- Repository: codethom
+🌐 MERN Application
+A full-stack web application demonstrating authentication, CRUD operations, REST APIs, and MongoDB integration.
+- Stack: React, Node.js, Express.js, MongoDB, JWT
+- Repository: mern
+🐍 Django Application
+A Django application demonstrating authentication, CRUD functionality, ORM-based database operations, and server-rendered pages.
+- Stack: Python, Django, HTML, CSS, Bootstrap, SQLite/MySQL
+- Repository: djano
+🧪 How I Approach AI Features
+User question
+    ↓
+Authentication + request validation
+    ↓
+Intent and permissions check
+    ↓
+Retrieve relevant knowledge / choose an allowed tool
+    ↓
+LLM reasoning with bounded context
+    ↓
+Validate tool arguments and execute server-side
+    ↓
+Verify result and format grounded response
+    ↓
+Logs, tests, and evaluation
+For booking, payment, account changes, or other consequential actions, the backend—not the LLM—must remain authoritative. Sensitive actions should require appropriate authorization and explicit user confirmation.
+📊 GitHub Analytics
 <div align="center">
 
-| Recognition | Details |
-|---|---|
-| 🎓 Generative AI for Software Developers | IBM Specialization, Coursera |
-| 📊 Data Science & Analytics Foundations | Google & IBM, Coursera |
-| 🔍 SEO Fundamentals Certification | UC Davis, Coursera |
-| 🛠️ Applied AI in Development Workflows | Self-directed project-based learning |
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Samirmomin2202&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" alt="GitHub statistics"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Samirmomin2202&theme=tokyonight&hide_border=true&background=0d1117&stroke=A78BFA&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub contribution streak"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samirmomin2202&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" alt="Most used languages"/>
 
 </div>
 
-<br/>
-
-## 📜 Certifications
-
+🏅 GitHub Trophies
 <div align="center">
 
-**Google**
-
-![Foundations of Data Science](https://img.shields.io/badge/Foundations_of_Data_Science-4285F4?style=flat-square&logo=google&logoColor=white)
-![Tools of the Trade: Linux and SQL](https://img.shields.io/badge/Linux_%26_SQL-4285F4?style=flat-square&logo=google&logoColor=white)
-
-**IBM**
-
-![Generative AI for Software Developers](https://img.shields.io/badge/GenAI_for_Software_Developers-052FAD?style=flat-square&logo=ibm&logoColor=white)
-![Introduction to Data Analytics](https://img.shields.io/badge/Intro_to_Data_Analytics-052FAD?style=flat-square&logo=ibm&logoColor=white)
-![Generative AI: Introduction and Applications](https://img.shields.io/badge/GenAI_Intro_%26_Applications-052FAD?style=flat-square&logo=ibm&logoColor=white)
-
-**University of California, Davis**
-
-![Google SEO Fundamentals](https://img.shields.io/badge/Google_SEO_Fundamentals-2774AE?style=flat-square&logo=coursera&logoColor=white)
+<img src="https://github-profile-trophy.vercel.app/?username=Samirmomin2202&theme=discord&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies"/>
 
 </div>
 
-<br/>
-
-## 📊 GitHub Analytics
-
+📈 Contribution Activity
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Samirmomin2202&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9"/>
-<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Samirmomin2202&theme=tokyonight&hide_border=true&background=0d1117&stroke=A78BFA&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samirmomin2202&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Samirmomin2202&theme=react-dark&hide_border=true&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=ffffff" width="100%" alt="Contribution activity graph"/>
 
 </div>
 
-<br/>
-
-## 🏅 GitHub Trophies
-
+🐍 Contribution Snake
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Samirmomin2202&theme=discord&no-frame=true&column=7&margin-w=8&margin-h=8"/>
+<img src="https://raw.githubusercontent.com/Samirmomin2202/Samirmomin2202/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake"/>
 
 </div>
 
-<br/>
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Samirmomin2202&theme=react-dark&hide_border=true&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=ffffff"/>
-
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Samirmomin2202/Samirmomin2202/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-<br/>
-
-## 🔭 Current Focus
-
-```yaml
-learning:
-  - Generative AI Application Development
-  - LangChain & Agentic Workflows
-  - Cloud-Native Deployment Practices
-
+🎓 Certifications & Learning
+- IBM / Coursera: Generative AI for Software Developers
+- IBM / Coursera: Introduction to Data Analytics
+- IBM / Coursera: Generative AI: Introduction and Applications
+- Google / Coursera: Foundations of Data Science
+- Google / Coursera: Tools of the Trade: Linux and SQL
+- UC Davis / Coursera: SEO Fundamentals
+Please ensure certification names and issuing organizations match the certificates on your profile.
+🔭 Current Focus
 building:
-  - Full-Stack Web Applications (MERN & Django)
-  - AI-Integrated Automation Tools
+  - RAG applications with source-aware responses
+  - Tool-enabled AI assistants with server-side authorization
+  - Full-stack products using React, Python APIs, and databases
 
-exploring:
-  - n8n Workflow Automation
-  - Ollama & Local LLM Integration
-  - Model Context Protocol (MCP) Servers
+learning:
+  - LLM evaluation and retrieval quality
+  - Agent workflows and state management
+  - Embeddings, vector search, and reranking
+  - ML model evaluation and deployment fundamentals
+  - Docker, testing, observability, and production readiness
 
-open_to:
-  - Full Stack Developer Roles
-  - AI/ML Engineering Opportunities
-  - Freelance & Collaborative Projects
-```
-
-<br/>
-
-## 📫 Connect With Me
-
+engineering_principles:
+  - Keep secrets out of client-side code
+  - Validate every tool input on the server
+  - Treat database state as the source of truth
+  - Test failure paths as well as successful paths
+  - Measure quality instead of relying on demos alone
+📫 Connect With Me
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mominsamir2202@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mominsamir)
-[![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Samirmomin2202)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://samirmomin2202.github.io)
-[![Twitter](https://img.shields.io/badge/Twitter-5B21B6?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/MominSamir17125)
 
-</div>
 
-<br/>
 
-<div align="center">
 
-*"Clean code, scalable systems, and continuous learning — that's the craft."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
+Building useful software. Learning deeply. Engineering AI systems responsibly.
 </div>
